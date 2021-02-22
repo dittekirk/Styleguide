@@ -13,9 +13,18 @@ h1 {
     font-weight: 700;
     font-size: 40px;
     text-align: center;
+<<<<<<< HEAD
 }
+=======
+ }
+<<<<<<< Updated upstream
+>>>>>>> 36eb076a7babb87558f92e545a395d91c677628a
 
  h2 {
+=======
+ h2{
+    margin-bottom: 20px;
+>>>>>>> Stashed changes
     color: #515f6d;
     font-weight: 400;
     font-size: 22px;
@@ -36,4 +45,27 @@ h1 {
 
 hr.solid {
   border-top: 1px solid #515f6d;
+}
+.color-box{
+  display: flex;
+}
+.color{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.color:nth-child(1){
+  background: #A5BB75;
+}
+.color:nth-child(2){
+  background: #d8a55a;
+}
+.color:nth-child(3){
+  background: #aa81ac;
+}
+.color:nth-child(4){
+  background: #6696ac;
+}
+.color:nth-child(5){
+  background: #d7734a;
 }
