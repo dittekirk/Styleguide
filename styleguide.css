@@ -48,6 +48,8 @@ hr.solid {
 }
 .color-box{
   display: flex;
+  color: #fff;
+  margin-top: 20px;
 }
 .color{
   width: 200px;
