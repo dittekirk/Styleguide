@@ -13,23 +13,15 @@ h1 {
     font-weight: 700;
     font-size: 40px;
     text-align: center;
-<<<<<<< HEAD
 }
-=======
- }
-<<<<<<< Updated upstream
->>>>>>> 36eb076a7babb87558f92e545a395d91c677628a
 
-
-=======
- h2{
+h2 {
     margin-bottom: 20px;
->>>>>>> Stashed changes
     color: #515f6d;
     font-weight: 400;
     font-size: 22px;
     margin-top: -20px;
-    text-align: center;
+    text-align: left;
 }
 
 .button {
