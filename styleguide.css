@@ -46,7 +46,8 @@ hr.solid {
 }
 .color{
   width: 200px;
-  height: 200px;
+  height: 100px;
+  padding-top: 85px;
   text-align: center;
 }
 .color:nth-child(1){
@@ -67,7 +68,8 @@ hr.solid {
 .contact{
   width: 380px;
 }
-input{
+
+input {
   border: solid #515f6d 2px;
   padding: 15px 0 15px 15px;
   margin-top: 10px;
@@ -75,7 +77,8 @@ input{
   width: 100%;
     font-family: "Roboto Mono", monospace;
 }
-textarea{
+
+textarea {
   border: solid #515f6d 2px;
   padding: 15px 0 15px 15px;
   margin-top: 10px;
@@ -85,7 +88,7 @@ textarea{
     font-family: "Roboto Mono", monospace;
 }
 
-body .cf7-style.cf7-style-3647 input[type='submit']{
+body .cf7-style.cf7-style-3647 input[type='submit'] {
   color: #ffffff;
   font-weight: 600;
   background: #A5BB75;
