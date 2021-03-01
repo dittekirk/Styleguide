@@ -73,6 +73,7 @@ input{
   margin-top: 10px;
   font-size: 14px;
   width: 100%;
+    font-family: "Roboto Mono", monospace;
 }
 textarea{
   border: solid #515f6d 2px;
@@ -81,6 +82,7 @@ textarea{
   font-size: 14px;
   height: 150px;
   width: 100%;
+    font-family: "Roboto Mono", monospace;
 }
 
 body .cf7-style.cf7-style-3647 input[type='submit']{
@@ -89,4 +91,5 @@ body .cf7-style.cf7-style-3647 input[type='submit']{
   background: #A5BB75;
   width: 105%;
   border: 0;
+    font-family: "Roboto Mono", monospace;
 }
